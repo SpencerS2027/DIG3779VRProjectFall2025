@@ -2,4 +2,10 @@ Greetings!
 
 Please enjoy my digital bedroom, explorable through VR!
 
-Here is list of all the assets that I used:
+Here is list of all the assets that I used (also avaiable as "AssetLinks.txt" in files):
+Incense Holder: https://sketchfab.com/3d-models/incense-44fecf4227ae49b0a322abc8841eb310
+Table: https://polyhaven.com/a/gallinera_table
+Stool: https://polyhaven.com/a/wooden_stool_02
+Lantern Pack: https://assetstore.unity.com/packages/3d/environments/historic/stone-lantern-pack-139776
+Kanji Word: https://sketchfab.com/3d-models/3d-kanji-calligraphy-a-flame-in-the-heart-b8db908781274b11ade666bb9518530e#download
+Hanging Scroll: https://sketchfab.com/3d-models/hanging-scroll-17cac1df01fd4daa897932ea8377ff7c
