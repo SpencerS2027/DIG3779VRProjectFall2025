@@ -4,3 +4,5 @@ Stool: https://polyhaven.com/a/wooden_stool_02
 Lantern Pack: https://assetstore.unity.com/packages/3d/environments/historic/stone-lantern-pack-139776
 Kanji Word: https://sketchfab.com/3d-models/3d-kanji-calligraphy-a-flame-in-the-heart-b8db908781274b11ade666bb9518530e#download
 Hanging Scroll: https://sketchfab.com/3d-models/hanging-scroll-17cac1df01fd4daa897932ea8377ff7c
+Leather Chair: https://polyhaven.com/a/mid_century_lounge_chair
+Desk: https://sketchfab.com/3d-models/la-jarre-a-son-home-studio-desk-2023-538fdc1dc1c1478da6a2761ec3c6dcab

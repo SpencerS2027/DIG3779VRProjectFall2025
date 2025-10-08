@@ -456,6 +456,79 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
+--- !u!1001 &415649780
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 143.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 143.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 143.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.13
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0000023841858
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.07
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.63886875
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.63886875
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.30306226
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.30306226
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -50.757
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
+      propertyPath: m_Name
+      value: mid_century_lounge_chair_1k
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8c5e68d2802bbbc429ff620bc169be29, type: 3}
 --- !u!1001 &430745291
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1060,15 +1133,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 09d331bc8981830488c3688788cac64c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.3
+      value: 5.39
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 09d331bc8981830488c3688788cac64c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.3
+      value: 1.67
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 09d331bc8981830488c3688788cac64c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 12.08
+      value: 14.89
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 09d331bc8981830488c3688788cac64c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1242,15 +1315,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: b99f84c5f03a4d34ca51b7803e426e0d, type: 3}
       propertyPath: m_LocalScale.x
-      value: 262.3
+      value: 317.4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b99f84c5f03a4d34ca51b7803e426e0d, type: 3}
       propertyPath: m_LocalScale.y
-      value: 206.27751
+      value: 249.60918
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b99f84c5f03a4d34ca51b7803e426e0d, type: 3}
       propertyPath: m_LocalScale.z
-      value: 125.50765
+      value: 151.8724
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b99f84c5f03a4d34ca51b7803e426e0d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1294,7 +1367,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: b99f84c5f03a4d34ca51b7803e426e0d, type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b99f84c5f03a4d34ca51b7803e426e0d, type: 3}
       propertyPath: m_Name
@@ -1367,7 +1440,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 840f982093e1e364e9e79df63f9143be, type: 3}
       propertyPath: m_ConstrainProportionsScale
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 840f982093e1e364e9e79df63f9143be, type: 3}
       propertyPath: m_Name
@@ -1488,3 +1561,4 @@ SceneRoots:
   - {fileID: 768708272}
   - {fileID: 583566071}
   - {fileID: 849605690}
+  - {fileID: 415649780}
