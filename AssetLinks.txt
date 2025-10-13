@@ -13,3 +13,6 @@ Machiya Set : https://sketchfab.com/3d-models/japanese-machiya-set-kit-d0bb3d915
 Light Serpent : https://sketchfab.com/3d-models/the-serpent-tret030-1c3d9fd316514f3eba68773eedbe88c5#download
 Books : https://sketchfab.com/3d-models/old-damaged-books-set-sample-37fba6c4d5274168b034e6f4c11da6a6#download
 plant : https://sketchfab.com/3d-models/3d-scan-of-plant-zamioculcas-zamiifolia-zz-ade8c9a5504f40f7bdb786179ad6154f#download
+plant sm : https://polyhaven.com/a/potted_plant_04
+Artwork : https://www.metmuseum.org/art/collection/search/39556
+swords : https://assetstore.unity.com/packages/3d/props/weapons/the-samurai-sword-68373
