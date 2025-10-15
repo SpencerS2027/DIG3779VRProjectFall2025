@@ -16,3 +16,5 @@ plant : https://sketchfab.com/3d-models/3d-scan-of-plant-zamioculcas-zamiifolia-
 plant sm : https://polyhaven.com/a/potted_plant_04
 Artwork : https://www.metmuseum.org/art/collection/search/39556
 swords : https://assetstore.unity.com/packages/3d/props/weapons/the-samurai-sword-68373
+Ceiling texture : https://polyhaven.com/a/patterned_clay_plaster
+Walls : https://polyhaven.com/a/beige_wall_001
