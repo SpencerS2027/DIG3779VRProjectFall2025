@@ -1,11 +1,26 @@
 Greetings!
 
-Please enjoy my digital bedroom, explorable through VR!
+Please enjoy my digital bedroom, explorable through VR! Complete with an AI-Programmed sun resembling the joyous occasion of conforming to monk life.
 
 Here is list of all the assets that I used (also avaiable as "AssetLinks.txt" in files):
+
 Incense Holder: https://sketchfab.com/3d-models/incense-44fecf4227ae49b0a322abc8841eb310
 Table: https://polyhaven.com/a/gallinera_table
 Stool: https://polyhaven.com/a/wooden_stool_02
 Lantern Pack: https://assetstore.unity.com/packages/3d/environments/historic/stone-lantern-pack-139776
 Kanji Word: https://sketchfab.com/3d-models/3d-kanji-calligraphy-a-flame-in-the-heart-b8db908781274b11ade666bb9518530e#download
 Hanging Scroll: https://sketchfab.com/3d-models/hanging-scroll-17cac1df01fd4daa897932ea8377ff7c
+Leather Chair: https://polyhaven.com/a/mid_century_lounge_chair
+Desk: https://sketchfab.com/3d-models/la-jarre-a-son-home-studio-desk-2023-538fdc1dc1c1478da6a2761ec3c6dcab
+Tatami Texture: https://polyhaven.com/a/tatami_mat
+China Screens: https://polyhaven.com/a/chinese_screen_panels
+Wooden Wall: https://polyhaven.com/a/wood_inlaid_concrete_wall
+Machiya Set : https://sketchfab.com/3d-models/japanese-machiya-set-kit-d0bb3d915bf9448a9ef46bcb6a6fa6db#download
+Light Serpent : https://sketchfab.com/3d-models/the-serpent-tret030-1c3d9fd316514f3eba68773eedbe88c5#download
+Books : https://sketchfab.com/3d-models/old-damaged-books-set-sample-37fba6c4d5274168b034e6f4c11da6a6#download
+plant : https://sketchfab.com/3d-models/3d-scan-of-plant-zamioculcas-zamiifolia-zz-ade8c9a5504f40f7bdb786179ad6154f#download
+plant sm : https://polyhaven.com/a/potted_plant_04
+Artwork : https://www.metmuseum.org/art/collection/search/39556
+swords : https://assetstore.unity.com/packages/3d/props/weapons/the-samurai-sword-68373
+Ceiling texture : https://polyhaven.com/a/patterned_clay_plaster
+Walls : https://polyhaven.com/a/beige_wall_001
